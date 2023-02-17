@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="323f623e-b95a-4b1f-986f-c5cd6137f7c0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fabrica_de_carros/CalculaPrecoCarro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CalculaPrecoCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculaPrecoCarro.java" afterDir="false" />
-    </list>
+    <list default="true" id="323f623e-b95a-4b1f-986f-c5cd6137f7c0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
